@@ -1,0 +1,7 @@
+artifacts/
+prediction_artifacts/
+predictions/
+logs/
+venv/
+LICENSE
+README.md
